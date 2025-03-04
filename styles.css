@@ -13,3 +13,10 @@ canvas {
   height: 100%;
   background-color: rgba(0,0,0,.9);
 }
+.highlight1 {
+    position: relative;
+    font-size: 50px;
+    color: rgba(251, 255, 0,.6);
+    text-align: center;
+    background-color: rgba(0,0,0,.0)
+}
